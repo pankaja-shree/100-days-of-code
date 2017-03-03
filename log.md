@@ -4,12 +4,20 @@
 
 ### Day 1: February 20, Monday
 
-**Today's Progress**: Signed up for Daily CSS Image Challenge. Completed the Beginner's Guide exercise - A koala. Also completed Challenge 1: Bear cub. 
+**Today's Progress**: 
+
+1. Signed up for Daily CSS Image Challenge. 
+
+2. Completed the Beginner's Guide exercise - A koala. 
+
+3. Also completed Challenge 1: Bear cub. 
 
 **Thoughts:** I havent given much importance to CSS Design till now. Looking forward to learn more, especially Vue.js 
 
 **Link to work:** 
+
 1. [Daily CSS Image Beginner's Guide](http://codepen.io/pankajashree/full/vgqjVj/)
+
 2. [Daily CSS Image Challenge 1 - Bear Cub](http://codepen.io/pankajashree/pen/vgqjVj)
 
 ### Day 2: February 21, Tuesday
@@ -41,12 +49,12 @@
 
 ### Day 5: February 24, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Went through the intermediate Tutorial for CSS Images on Daily CSS Images and worked on layered images. 
 
-**Thoughts** 
+**Thoughts** : Its getting tougher day by day. I have to stick with it to the end. 
 
 **Link(s) to work**
-1. 
+1. Layered Images in CSS (http://codepen.io/pankajashree/pen/yMLWXd)
 
 ### Day 6: February 25, Saturday
 
