@@ -1,30 +1,105 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Start Date - February 20, 2017, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: February 20, Monday
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Signed up for Daily CSS Image Challenge. Completed the Beginner's Guide exercise - A koala. Also completed Challenge 1: Bear cub. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I havent given much importance to CSS Design till now. Looking forward to learn more, especially Vue.js 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** 
+1. [Daily CSS Image Beginner's Guide](http://codepen.io/pankajashree/full/vgqjVj/)
+2. [Daily CSS Image Challenge 1 - Bear Cub](http://codepen.io/pankajashree/pen/vgqjVj)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: February 21, Tuesday
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Completed Daily CSS Image Challenge 2 - An Elephant. It was a fun exercise. Finding it hard to get curved lines for the trunk.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. 
+
+**Link(s) to work**: [Daily CSS Image Challenge 2 - Elephant](http://codepen.io/pankajashree/full/pRMrEG/)
 
 
-### Day 1: June 27, Monday
+### Day 3: February 22, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. 
+
+### Day 4: February 23, Thursday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+### Day 5: February 24, Friday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+### Day 6: February 25, Saturday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+### Day 7: February 26, Sunday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+### Day 8: February 27, Monday
+
+**Today's Progress**: Added custom styles for JS30 Day 1 challenge. Daily CSS Images Day3 - Beaver Half done - Styled the head.
+
+**Thoughts** 
+
+**Link(s) to work** [Javascript Drum Kit](https://pankaja-shree.github.io/JavaScript30/day1/index.html)
+
+### Day 9: February 28, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+### Day 10: March 01, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+### Day 11: March 02, Thursday
+
+**Today's Progress**: 
+
+1. Tried setting up a Slack bot using node framework. Created a new Slack team (batman-bots.slack.com). Downloaded node.js and wrote a sample file index.js. But the bot is not sending messages to the channel. Will troubleshoot tomorrow. 
+2. Continued working with @tan on the Weather App for Momentum - Almost complete. Have to add changing backgrounds depending on the weather.
+
+**Thoughts** Excited to set up my own bot. I really want to succeed with this.
+
+**Link(s) to work** [Github Repo](https://github.com/pankaja-shree/bat-bot)
+
