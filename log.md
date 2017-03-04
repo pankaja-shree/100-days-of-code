@@ -110,13 +110,22 @@
 
 **Link(s) to work:** [Github Repo](https://github.com/pankaja-shree/bat-bot)
 
-### Day 11: March 02, Thursday
+### Day 12: March 03, Friday
 
-**Today's Progress:** 
-
-1. Continued working on the Weather App for Momentum. Added changing backgrounds from unsplash.com. Added more display - wind speed, humidity, date. 
+**Today's Progress:** Continued working on the Weather App for Momentum. Added changing backgrounds from unsplash.com. Added more display items - wind speed, humidity, date. Have to format them and have to add overlay on the background image
 
 **Thoughts:** The Weather App has come out really well. Designs on Dribbble are good for inspiration.
 
 **Link(s) to work:** [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 13: March 04, Saturday
+
+**Today's Progress:** Completed Weather App for Momentum. Formated display items - wind speed, humidity, date and added data from API to fill these divs. 
+
+**Thoughts:** The Weather App has come out really well. Designs on Dribbble are good for inspiration.
+
+**Link(s) to work:** [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+
+
 
