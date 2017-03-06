@@ -126,6 +126,12 @@
 
 **Link(s) to work:** [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
+### Day 14: March 05, Sunday
 
+**Today's Progress:** First Momentum App project virtual meeting. Showdown of completed apps for the Momentum Project. Random quotes and weaatehr display are completed. Chrome extension has also been created. Next meeting scheduled for next sunday. By then we should be able to do the user settings part.
+
+**Thoughts:** Team projects is a good experience.
+
+**Link(s) to work:** [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
 
