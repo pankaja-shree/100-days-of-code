@@ -141,3 +141,16 @@
 **Thoughts:** Excited to set up my own bot.
 
 **Link(s) to work:** [The Bot Project](https://github.com/pankaja-shree/bot-project)
+
+### Day 16: March 07, Tuesday
+
+**Today's Progress:** 
+
+1. Solved 3 intermediate algorithms on FCC.
+
+2. Following [this](https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2#.o5conj8h1) tutorial to create an API using Node, Express and MongoDb for the base API for our bot project. C operation (of CRUD) is complete.
+
+**Thoughts:** Creating API for the first time without experience in any of the technologies is tough.
+
+**Link(s) to work:** [The Bot Project](https://github.com/pankaja-shree/bot-project)
+
