@@ -134,4 +134,10 @@
 
 **Link(s) to work:** [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
+### Day 15: March 06, Monday
 
+**Today's Progress:** Set up a bot on my own slack team. Preliminary scaffolding work is done. The bot is up and running and says 'Hello Humans!' when messaged @mybot at any channel or DM on slack. 
+
+**Thoughts:** Excited to set up my own bot.
+
+**Link(s) to work:** [The Bot Project](https://github.com/pankaja-shree/bot-project)
