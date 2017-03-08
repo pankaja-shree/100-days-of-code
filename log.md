@@ -146,11 +146,25 @@
 
 **Today's Progress:** 
 
-1. Solved 3 intermediate algorithms on FCC.
+1. Solved 3 intermediate algorithms on FCC - 'Search and Replace', 'DNA Pairing' and 'Boo-who'.
 
-2. Following [this](https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2#.o5conj8h1) tutorial to create an API using Node, Express and MongoDb for the base API for our bot project. C operation (of CRUD) is complete.
+2. Following [this](https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2#.o5conj8h1) tutorial to create an API using Node, Express and MongoDb for the base API for our bot project. Node route for Create operation (of CRUD) is complete.
 
 **Thoughts:** Creating API for the first time without experience in any of the technologies is tough.
+
+**Link(s) to work:** [My First API](https://github.com/pankaja-shree/notable-api)
+
+### Day 16: March 07, Tuesday
+
+**Today's Progress:** 
+
+1. Solved 1 intermediate algorithm on FCC - 'Missing Letters'.
+
+2. Continued working on the API from [this](https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2#.o5conj8h1) tutorial. Completed a basic working API for CRUD Operations. Tested with Postman App. 
+
+3. Worked with @tan on the Momentum App. Created a chrome extension for Weather App that works locally.
+
+**Thoughts:** Silly mistakes and setbacks. My First API is up and running. Woohoo! Also, created my first extension working locally on my computer!
 
 **Link(s) to work:** [The Bot Project](https://github.com/pankaja-shree/bot-project)
 
