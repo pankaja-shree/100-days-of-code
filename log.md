@@ -168,11 +168,11 @@
 
 **Link(s) to work:** [The Bot Project](https://github.com/pankaja-shree/bot-project)
 
-### Day 18: March 08, Wednesday
+### Day 18: March 09, Thursday
 
 **Today's Progress:** 
 
-1. Solved 2 intermediate algorithm on FCC - 'Sum All Primes', 'Sum All Odd Fibonacci Numbers'.
+1. Solved 4 intermediate algorithms on FCC - 'Sum All Primes', 'Sum All Odd Fibonacci Numbers', 'Binary Agents' and 'Finders Keepers'.
 
 
 
