@@ -154,7 +154,7 @@
 
 **Link(s) to work:** [My First API](https://github.com/pankaja-shree/notable-api)
 
-### Day 16: March 08, Wednesday
+### Day 17: March 08, Wednesday
 
 **Today's Progress:** 
 
@@ -167,6 +167,18 @@
 **Thoughts:** Silly mistakes and setbacks. My First API is up and running. Woohoo! Also, created my first extension working locally on my computer!
 
 **Link(s) to work:** [The Bot Project](https://github.com/pankaja-shree/bot-project)
+
+### Day 18: March 08, Wednesday
+
+**Today's Progress:** 
+
+1. Solved 2 intermediate algorithm on FCC - 'Sum All Primes', 'Sum All Odd Fibonacci Numbers'.
+
+
+
+**Thoughts:** 
+
+**Link(s) to work:** 
 
 
 
