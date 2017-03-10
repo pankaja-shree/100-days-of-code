@@ -174,11 +174,15 @@
 
 1. Solved 4 intermediate algorithms on FCC - 'Sum All Primes', 'Sum All Odd Fibonacci Numbers', 'Binary Agents' and 'Finders Keepers'.
 
+2. Started FCC Speedrun Challenge. Rebuilt the Tribute Page, pushed it to github and hosted it on surge.sh. Wrote a post on medium about it. 
 
-
-**Thoughts:** 
+**Thoughts:** Writing on medium is improving my writing skills. Worked with surge.sh for the first time. 
 
 **Link(s) to work:** 
 
+[Tribute Page](http://typical-daughter.surge.sh/)
 
+[Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tribute-page)
+
+[Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-challenge-day-1-tribute-page-7cc64841584f#.8jgq70pig)
 
