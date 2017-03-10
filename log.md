@@ -180,9 +180,9 @@
 
 **Link(s) to work:** 
 
-[Tribute Page](http://typical-daughter.surge.sh/)
+1. [Tribute Page](http://typical-daughter.surge.sh/)
 
-[Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tribute-page)
+2. [Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tribute-page)
 
-[Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-challenge-day-1-tribute-page-7cc64841584f#.8jgq70pig)
+3. [Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-challenge-day-1-tribute-page-7cc64841584f#.8jgq70pig)
 
