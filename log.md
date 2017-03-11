@@ -182,7 +182,40 @@
 
 1. [Tribute Page](http://typical-daughter.surge.sh/)
 
-2. [Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tribute-page)
+2. [Tribute Page Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tribute-page)
 
 3. [Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-challenge-day-1-tribute-page-7cc64841584f#.8jgq70pig)
+
+### Day 19: March 10, Friday
+
+**Today's Progress:** 
+
+1. Learnt about using localStorage in html5 storae API. Worked on Momentum project using the same. The page is not updating with localStorage set. Will continue tomorrow.
+
+2. FCC Speedrun Challenge Project 2 - Rebuilt the Weather App, pushed it to github and hosted it on github pages.
+
+**Thoughts:** Hosting on github is easier than surge 
+
+**Link(s) to work:** 
+
+1. [Local Weather App](https://pankaja-shree.github.io/weather-app/)
+
+2. [Local Weather App Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/local-weather)
+0
+3. [Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-challenge-day-2-show-the-local-weather-e63fd34bbe6b#.r8spgumcm
+
+### Day 20: March 11, Saturday
+
+**Today's Progress:** 
+
+1. Worked on Momentum project using the localStorage to store the user preference wrt Celsius or Fahrenheit display. It works on my local system, but fails to work on c9. 
+
+2. FCC Speedrun Challenge Project 3 - Rebuilt the Random Quotes App, pushed it to github and hosted it on github pages.
+
+3. Wrote medium post on 
+
+**Thoughts:** Hosting on github is easier than surge 
+
+**Link(s) to work:** 
+
 
