@@ -236,4 +236,18 @@
 
 3. [Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-project-4-javascript-calculator-cfd0f60e4810#.jjwmbonb2)
 
+### Day 22: March 13, Monday
 
+**Today's Progress:**  
+
+1. Rebuilt Wikipedia Viewer with some added functionalities (back to top button, search button, change of background) for FCC Speedrun Challenge - Project 4. 
+
+2. Started Pomodoro Clock for FCC Speedrun Challenge - Project 5 - Completed Javascript part. Styling remains. 
+
+**Thoughts:**  Speedrun Challenge is motivating. 
+
+**Link(s) to work:** 
+
+1. [Wikipedia Viewer Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/wikipedia-viewer)
+
+2. [Pomodoro Clock Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/pomodoro-clock)
