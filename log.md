@@ -224,11 +224,9 @@
 
 ### Day 21: March 12, Sunday
 
-**Today's Progress:** 
+**Today's Progress:**  Worked on Javascript Calculator for FCC Speedrun Challenge - Project 4. Hosted on surge and wrote a medium post on it.
 
-1. Worked on Javascript Calculator for FCC Speedrun Challenge - Project 4. Hosted on surge and wrote a medium post on it.
-
-**Thoughts:** Coding the calculator was super fun. 
+**Thoughts:**  Coding the calculator was super fun. 
 
 **Link(s) to work:** 
 
