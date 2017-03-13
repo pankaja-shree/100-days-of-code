@@ -210,12 +210,32 @@
 
 1. Worked on Momentum project using the localStorage to store the user preference wrt Celsius or Fahrenheit display. It works on my local system, but fails to work on c9. 
 
-2. FCC Speedrun Challenge Project 3 - Rebuilt the Random Quotes App, pushed it to github and hosted it on github pages.
+2. Continued with FCC Speedrun Challenge - Project 3 - Rebuilt the Random Quotes App, pushed it to github and hosted it on github pages. Wrote medium post on it.
 
-3. Wrote medium post on 
-
-**Thoughts:** Hosting on github is easier than surge 
+**Thoughts:** I feel that hosting on github is easier than surge. 
 
 **Link(s) to work:** 
+
+1. [Random Quote Machine Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/random-quote-machine)
+
+2. [Random Quote Machine Live](http://nice-turn.surge.sh/)
+
+3. [Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-project-3-random-quotes-app-4383c4184ab4#.eb59dfmwe)
+
+### Day 21: March 12, Sunday
+
+**Today's Progress:** 
+
+1. Worked on Javascript Calculator for FCC Speedrun Challenge - Project 4. Hosted on surge and wrote a medium post on it.
+
+**Thoughts:** Coding the calculator was super fun. 
+
+**Link(s) to work:** 
+
+1. [Javascript Calculator Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/calculator)
+
+2. [Javascript Calculator Live](http://waggish-comb.surge.sh/)
+
+3. [Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-project-4-javascript-calculator-cfd0f60e4810#.jjwmbonb2)
 
 
