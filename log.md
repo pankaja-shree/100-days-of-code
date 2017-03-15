@@ -240,9 +240,9 @@
 
 **Today's Progress:**  
 
-1. Rebuilt Wikipedia Viewer with some added functionalities (back to top button, search button, change of background) for FCC Speedrun Challenge - Project 4. 
+1. Rebuilt Wikipedia Viewer with some added functionalities (back to top button, search button, change of background) for FCC Speedrun Challenge - Project 5. 
 
-2. Started Pomodoro Clock for FCC Speedrun Challenge - Project 5 - Completed Javascript part. Styling remains. 
+2. Started Pomodoro Clock for FCC Speedrun Challenge - Project 6 - Completed Javascript part. Styling remains. 
 
 **Thoughts:**  Speedrun Challenge is motivating. 
 
@@ -251,3 +251,17 @@
 1. [Wikipedia Viewer Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/wikipedia-viewer)
 
 2. [Pomodoro Clock Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/pomodoro-clock)
+
+### Day 23: March 14, Tuesday
+
+**Today's Progress:**  Completed Pomodoro Clock for FCC Speedrun Challenge - Project 6. Hosted it on surge and wrote a medium post on the Wikipedia and Pomodoro apps. 
+
+**Thoughts:**  Speedrun Challenge is motivating. 
+
+**Link(s) to work:** 
+
+1. [Wikipedia Viewer Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-project-5-wikipedia-viewer-723e4a4d5bbc#.s14fe45x6)
+
+2. [Pomodoro Clock Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/pomodoro-clock)
+
+3. [Pomodoro Clock Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-project-6-pomodoro-clock-1f571eb933fa#.imk23owg1)
