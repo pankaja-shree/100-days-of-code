@@ -265,3 +265,29 @@
 2. [Pomodoro Clock Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/pomodoro-clock)
 
 3. [Pomodoro Clock Medium Post](https://medium.com/@pankajashree/chingu-fcc-speedrun-project-6-pomodoro-clock-1f571eb933fa#.imk23owg1)
+
+### Day 24: March 15, Wednesday
+
+**Today's Progress:**  Worked on Momentum app - bootstrapping. 
+
+**Thoughts:**  Momentum app is nearly finished. 
+
+**Link(s) to work:** [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 25: March 16, Thursday
+
+**Today's Progress:**  Worked on Momentum app - bootstrapping. 
+
+**Thoughts:**  Momentum app is nearly finished. 
+
+**Link(s) to work:** [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 26: March 17, Friday
+
+**Today's Progress:**  Worked on Twitch tv app. Completed getting data from API. Have to style. 
+
+**Thoughts:**  Twitch app was harder than pomodoro. 
+
+**Link(s) to work:** [Twitch App Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/twitch-client)
+
+
