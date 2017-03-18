@@ -290,4 +290,21 @@
 
 **Link(s) to work:** [Twitch App Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/twitch-client)
 
+### Day 27: March 18, Saturday
+
+**Today's Progress:**  
+
+1. Completed Twitch app, hosted on surge and wrote a medium post on it. 
+
+2. Started tic tac toe project for the FCC Speedrun - Project 8.
+
+**Thoughts:**  Looking forward to working with some AI algos for the tic tac toe game. 
+
+**Link(s) to work:** 
+
+1. [Twitch App Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/twitch-client)
+
+2. [Medium Post on Twitch app](https://medium.com/@pankajashree/chingu-fcc-speedrun-project-7-twitchtv-app-7dab32526d8d#.dh7exou9c)
+
+3. [Tic tac toe repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tictactoe-game)
 
