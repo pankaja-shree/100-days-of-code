@@ -308,3 +308,16 @@
 
 3. [Tic tac toe repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tictactoe-game)
 
+### Day 28: March 19, Sunday
+
+**Today's Progress:**  
+
+1. Learnt about Minimax algorithm to implement for the tic tac toe project. Understood the working of the algorithm. Have to code it.
+
+**Thoughts:**  Excited to build an unbeatable game. 
+
+**Link(s) to work:** 
+
+1. [Tic tac toe repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tictactoe-game)
+
+
