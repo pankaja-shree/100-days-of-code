@@ -320,4 +320,17 @@
 
 1. [Tic tac toe repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tictactoe-game)
 
+### Day 29: March 20, Monday
+
+**Today's Progress:**  
+
+1. Built a text code editor for html,css and javascript. 
+
+2. Trying to deploy node app on heroku. 
+
+**Thoughts:**  Excited to build an unbeatable game. 
+
+**Link(s) to work:**  [Text editor repo](https://github.com/pankaja-shree/text-editor)
+
+
 
