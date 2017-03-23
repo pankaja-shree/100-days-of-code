@@ -332,5 +332,30 @@
 
 **Link(s) to work:**  [Text editor repo](https://github.com/pankaja-shree/text-editor)
 
+### Day 30: March 21, Tuesday
+
+**Today's Progress:**  Add styles to the text editor for momentum project
+
+**Thoughts:**  Learnt a lot while building the editor. 
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 31: March 22, Wednesday
+
+**Today's Progress:**  Started doing 'The main task of the day' functionality for momentum project. Created a separate GH Branch (named DayFocus) to work on my code.
+
+**Thoughts:**  Playing with Local Storage functionality. Cloning an existing project improves our knowledge and learning. 
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 32: March 23, Thursday
+
+**Today's Progress:**  Completed the 'Main task' functionality. Debugged some bugs and added styles.
+
+**Thoughts:**  Need to work on tic tac toe for the speedrun challenge. From next time, I should pick one project and pick the next one after finishing all old projects. 
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+
 
 
