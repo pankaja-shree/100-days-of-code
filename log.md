@@ -356,6 +356,39 @@
 
 **Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
+### Day 33: March 24, Friday
+
+**Today's Progress:**  Worked on tic tac toe project. Almost complete
+
+**Thoughts:**  First AI app. 
+
+**Link(s) to work:**  [Tic tac toe Project Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tictactoe-game)
+
+### Day 34: March 25, Saturday
+
+**Today's Progress:**  Finished tic tac toe project. Wrote a post on medium
+
+**Thoughts:**  First AI app completed. 
+
+**Link(s) to work:**  [Tic tac toe Project Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/tictactoe-game)
+
+### Day 35: March 26, Sunday
+
+**Today's Progress:**  Worked on momentum project. Combined all apps to work on single page. 
+
+**Thoughts:**  Need to work on team collaboration. 
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 36: March 27, Monday
+
+**Today's Progress:**  Started working on Simon game - Blink colors when clicked. Solved 2 FCC intermediate algorithms.
+
+**Thoughts:**  Simon game is tough. It may not be complete in a week.  
+
+**Link(s) to work:**  [Simon Game Project Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/simon-game)
+
+
 
 
 
