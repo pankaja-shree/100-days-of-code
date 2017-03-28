@@ -388,6 +388,14 @@
 
 **Link(s) to work:**  [Simon Game Project Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/simon-game)
 
+### Day 37: March 28, Tuesday
+
+**Today's Progress:**  Continued working on Simon game. Completed FCC intermediate algorithms.
+
+**Thoughts:**  Simon game is tough. It may not be complete in a week.  
+
+**Link(s) to work:**  [Simon Game Project Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/simon-game)
+
 
 
 
