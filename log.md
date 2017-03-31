@@ -396,6 +396,14 @@
 
 **Link(s) to work:**  [Simon Game Project Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/simon-game)
 
+### Day 38: March 28, Tuesday
+
+**Today's Progress:**  Worked on Algorithm app for momentum project. Embeded repl.it editor.
+
+**Thoughts:**  Need to solve the CORS problem related to this.  
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
 
 
 
