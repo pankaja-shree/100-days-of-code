@@ -396,13 +396,37 @@
 
 **Link(s) to work:**  [Simon Game Project Repo](https://github.com/pankaja-shree/chingu-fcc-speedrun-challenge/tree/master/frontend/simon-game)
 
-### Day 38: March 28, Wednesday
+### Day 38: March 29, Wednesday
 
 **Today's Progress:**  Worked on Algorithm app for momentum project. Embeded repl.it editor.
 
 **Thoughts:**  Need to solve the CORS problem related to this.  
 
 **Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 39: March 30, Thursday
+
+**Today's Progress:**  Worked on Algorithm app for momentum project. Embeded repl.it editor.
+
+**Thoughts:**  Need to solve the CORS problem related to this.  
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 40: March 31, Friday
+
+**Today's Progress:**  Worked on Algorithm app for momentum project. Embeded repl.it editor.
+
+**Thoughts:**  Need to solve the CORS problem related to this.  
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 41: March 31, Friday
+
+**Today's Progress:**  Worked on Javascript30 Challenge Day3 - using CSS Variables and javascript to manipulate the DOM
+
+**Thoughts:**  Learnt about CSS Variables
+
+**Link(s) to work:**  [Day 3 Repo](https://github.com/pankaja-shree/JavaScript30/tree/master/day3)
 
 
 
