@@ -420,7 +420,7 @@
 
 **Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
-### Day 41: March 31, Friday
+### Day 41: April 01, Saturday
 
 **Today's Progress:**  Worked on Javascript30 Challenge Day3 - using CSS Variables and javascript to manipulate the DOM
 
@@ -428,6 +428,21 @@
 
 **Link(s) to work:**  [Day 3 Repo](https://github.com/pankaja-shree/JavaScript30/tree/master/day3)
 
+### Day 42: April 02, Sunday
+
+**Today's Progress:**  Worked on Javascript30 Challenge Day4 - Using AJAX 
+
+**Thoughts:**  Learnt about CSS Variables
+
+**Link(s) to work:**  [Project Repo](https://github.com/pankaja-shree/JavaScript30/tree/master/day5)
+
+### Day 43: April 03, Monday
+
+**Today's Progress:**  Worked on Momentum project - fixed quote position, added animations.
+
+**Thoughts:**  Working too much on css. Need to start learning node and express
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
 
 
