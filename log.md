@@ -444,6 +444,14 @@
 
 **Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
+### Day 44: April 04, Tuesday
+
+**Today's Progress:**  Word prediction project - Javascript 30. 
+
+**Thoughts:**  Getting comfotable working with regex
+
+**Link(s) to work:**  [Project Repo](https://github.com/pankaja-shree/JavaScript30/tree/master/day5)
+
 
 
 
