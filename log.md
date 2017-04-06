@@ -452,6 +452,15 @@
 
 **Link(s) to work:**  [Project Repo](https://github.com/pankaja-shree/JavaScript30/tree/master/day5)
 
+### Day 45: April 06, Thursday
+
+**Today's Progress:**  Momentum Project
+
+**Thoughts:**  I really want to finish this asap. its taking too long
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+
 
 
 
