@@ -460,6 +460,26 @@
 
 **Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
+### Day 46: April 07, Friday
+
+**Today's Progress:**  Solved 3 algorithms from FCC
+
+**Thoughts:**  Want to get frontend certi by the end of next week
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+### Day 47: April 08, Saturday
+
+**Today's Progress:**  Completed Momentum App - displayed markdown text as html, made tooltips for icons, added bootstrap about modal. 
+
+**Thoughts:**  Excited to set up our first team project. 
+
+**Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
+
+
+
+
+
 
 
 
