@@ -476,6 +476,22 @@
 
 **Link(s) to work:**  [Our Momentum Project Repo](https://github.com/Arthurauthor/chingu-belugas-momentum-project)
 
+### Day 48: April 09, Sunday
+
+**Today's Progress:**  Created a GH Repo for all resources posted on Chingu cohort. 
+
+**Thoughts:**  Resource overload. 
+
+**Link(s) to work:**  [Resources repo](https://github.com/pankaja-shree/chingu-belugas-resource-library)
+
+### Day 49: April 10, Monday
+
+**Today's Progress:**  Continued working on the resources repo. 
+
+**Thoughts:**  Learning markdown by doing this repo. I want to make this into a full fledged searchable website and also let users add their own resources. 
+
+**Link(s) to work:**  [Resources repo](https://github.com/pankaja-shree/chingu-belugas-resource-library)
+
 
 
 
