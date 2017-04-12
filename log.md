@@ -492,6 +492,23 @@
 
 **Link(s) to work:**  [Resources repo](https://github.com/pankaja-shree/chingu-belugas-resource-library)
 
+### Day 50: April 11, Tuesday
+
+**Today's Progress:**  Solved 2 Advanced algorithms from FCC frontend certification. Started learning Angular JS. 
+
+**Thoughts:**  Need to complete Front end projects fast to get the certificate before the content gets updated
+
+**Link(s) to work:**  [Angular-projects repo](https://github.com/pankaja-shree/coursera-angular)
+
+### Day 51: April 12, Wednesday
+
+**Today's Progress:**  Learnt Vue Js and built 2 single page applications. 
+
+**Thoughts:**  Vue framework is easier to learn than Angular. 
+
+**Link(s) to work:**  [Vue-projects repo](https://github.com/pankaja-shree/vue-projects/tree/master/applications)
+
+
 
 
 
