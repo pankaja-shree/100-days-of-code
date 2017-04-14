@@ -502,11 +502,28 @@
 
 ### Day 51: April 12, Wednesday
 
-**Today's Progress:**  Learnt Vue Js and built 2 single page applications. 
+**Today's Progress:**  Learnt Vue Js and built 2 single page applications - notemaster and starbase. 
 
 **Thoughts:**  Vue framework is easier to learn than Angular. 
 
 **Link(s) to work:**  [Vue-projects repo](https://github.com/pankaja-shree/vue-projects/tree/master/applications)
+
+### Day 52: April 13,Thursday
+
+**Today's Progress:**  Built multi-page application - starbase router and jokester. 
+
+**Thoughts:**  Vuex and understanding the states is a bit tough at the moment. 
+
+**Link(s) to work:**  [Vue-projects repo](https://github.com/pankaja-shree/vue-projects/tree/master/applications)
+
+### Day 53: April 14,Friday
+
+**Today's Progress:**  Built multi-page application with firebase authentication system. 
+
+**Thoughts:**  This was a pretty exciting project. Looking forward to improvising the projects built in this couse
+
+**Link(s) to work:**  [Vue-projects repo](https://github.com/pankaja-shree/vue-projects/tree/master/applications)
+
 
 
 
