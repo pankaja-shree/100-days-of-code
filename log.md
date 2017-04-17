@@ -520,9 +520,37 @@
 
 **Today's Progress:**  Built multi-page application with firebase authentication system. 
 
-**Thoughts:**  This was a pretty exciting project. Looking forward to improvising the projects built in this couse
+**Thoughts:**  This was a pretty exciting project. Looking forward to improvising the projects built in this course
 
 **Link(s) to work:**  [Vue-projects repo](https://github.com/pankaja-shree/vue-projects/tree/master/applications)
+
+### Day 54: April 15, Saturday
+
+**Today's Progress:**  Completed all frontend algorithms. Started simon game. 
+
+**Thoughts:**  Looking forward to get certi by tomo
+
+**Link(s) to work:**  [FCC profile](https://www.freecodecamp.com/pankaja-shree)
+
+### Day 55: April 16, Sunday
+
+**Today's Progress:**  Completed simon game. 
+
+**Thoughts:**  Got front end certi ! 
+
+**Link(s) to work:**  [FCC profile](https://www.freecodecamp.com/pankaja-shree)
+
+### Day 56: April 17, Monday
+
+**Today's Progress:**  Started building bot using Recast.ai
+
+**Thoughts:**  Looking forward to get certi by tomo
+
+**Link(s) to work:**  [Github-bot](https://recast.ai/pankaja-shree/github-bot/)
+
+
+
+
 
 
 
