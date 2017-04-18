@@ -548,6 +548,14 @@
 
 **Link(s) to work:**  [Github-bot](https://recast.ai/pankaja-shree/github-bot/)
 
+### Day 56: April 18, Tuesday
+
+**Today's Progress:**  Problems while hosting the bot using Recast.ai
+
+**Thoughts:**  Need to learn node thoroughly
+
+**Link(s) to work:**  [Github-bot](https://recast.ai/pankaja-shree/github-bot/)
+
 
 
 
