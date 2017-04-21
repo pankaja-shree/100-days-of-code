@@ -566,11 +566,19 @@
 
 ### Day 59: April 20, Thursday
 
-**Today's Progress:**  Installed virtualbo and mounted juicebox on it. Tried the recastai starter kit. It din work on that either. Looking for other Node+Express framework for setting up a basic bot
+**Today's Progress:**  Installed virtualbox and mounted juicebox on it. Tried the recastai starter kit. It din work on that either. Looking for other Node+Express framework for setting up a basic bot
 
 **Thoughts:**  Hope to be successful this time atleast
 
 **Link(s) to work:**  [Github-bot](https://recast.ai/pankaja-shree/github-bot/)
+
+### Day 60: April 21, Friday
+
+**Today's Progress:**  Building a bot using Node and Express. Have to try Wit.ai for NLP tasks. Following [this](https://botcube.co/blog/2017/02/23/tutorial-create-smart-facebook-messenger-chatbot-with-node-js-and-api-ai-nlp.html?utm_source=reddit_chatbots) tutorial.
+
+**Thoughts:**  Hope to be successful this time atleast
+
+**Link(s) to work:**  [my-bot](https://github.com/pankaja-shree/my-bot)
 
 
 
