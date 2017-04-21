@@ -562,7 +562,15 @@
 
 **Thoughts:**  My first volunteer project for WHFNP
 
-**Link(s) to work:**  [Github-bot](https://recast.ai/pankaja-shree/ocdaction/)
+**Link(s) to work:**  [Ocd-action](https://recast.ai/pankaja-shree/ocdaction/)
+
+### Day 59: April 20, Thursday
+
+**Today's Progress:**  Installed virtualbo and mounted juicebox on it. Tried the recastai starter kit. It din work on that either. Looking for other Node+Express framework for setting up a basic bot
+
+**Thoughts:**  Hope to be successful this time atleast
+
+**Link(s) to work:**  [Github-bot](https://recast.ai/pankaja-shree/github-bot/)
 
 
 
