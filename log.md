@@ -580,6 +580,22 @@
 
 **Link(s) to work:**  [my-bot](https://github.com/pankaja-shree/my-bot)
 
+### Day 61: April 22, Saturday
+
+**Today's Progress:**  Built a basic Messenger bot with [this](https://github.com/jw84/messenger-bot-witai-tutorial) tutorial. Hosted on heroku
+
+**Thoughts:**  First bot deployed! 
+
+**Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
+
+### Day 62: April 23, Monday
+
+**Today's Progress:**  Tested Fun-bot. It works. Need to integrate some additional functionality to this. Went through Gipy documentation. 
+
+**Thoughts:**  Giphy bot sounds fun. But need t keep the bot alive at all times.
+
+**Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
+
 
 
 
