@@ -588,7 +588,7 @@
 
 **Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
 
-### Day 62: April 23, Monday
+### Day 62: April 24, Monday
 
 **Today's Progress:**  Tested Fun-bot. It works. Need to integrate some additional functionality to this. Went through Gipy documentation. 
 
@@ -596,6 +596,13 @@
 
 **Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
 
+### Day 63: April 25, Tuesday
+
+**Today's Progress:**  Used Wit.ai to train and create user stories. The tutorial i was following uses an older version of wit. Need to check the docs for latest updates. 
+
+**Thoughts:**  Will build the fun-bot using Wit.ai
+
+**Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
 
 
 
