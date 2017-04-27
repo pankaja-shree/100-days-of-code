@@ -604,6 +604,14 @@
 
 **Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
 
+### Day 64: April 27, Thursday
+
+**Today's Progress:**  Tried using giphy api with the fun bot. But failed. Need to learn how to use json data for bots. 
+
+**Thoughts:**  Will build the fun-bot using Wit.ai
+
+**Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
+
 
 
 
