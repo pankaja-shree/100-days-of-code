@@ -612,7 +612,13 @@
 
 **Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
 
+### Day 65: April 29, Saturday
 
+**Today's Progress:**  Solved problem set 1 of cs50. 
+
+**Thoughts:**  Will build the fun-bot using Wit.ai
+
+**Link(s) to work:**  [Fun-bot](https://github.com/pankaja-shree/my-bot)
 
 
 
