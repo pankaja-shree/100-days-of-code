@@ -620,13 +620,13 @@
 
 **Link(s) to work:**  [Pset1](https://github.com/submit50/pankaja-shree/tree/cs50/2017/x/credit)
 
-### Day 65: April 29, Saturday
+### Day 66: May 03, Wednesday
 
-**Today's Progress:**  Solved the last problem in the problem set 1 of cs50. 
+**Today's Progress:**  Design of Signin page for HQ Project (WHFNP) 
 
-**Thoughts:**  Cs50 is exciting
+**Thoughts:**  My first non profit voluntary work. Excited.
 
-**Link(s) to work:**  [Pset1 - Credit](https://github.com/submit50/pankaja-shree/tree/cs50/2017/x/credit)
+**Link(s) to work:**  [HQ Project private repo](https://github.com/PenelopeT/HQProject/tree/pankaja)
 
 
 
