@@ -628,6 +628,14 @@
 
 **Link(s) to work:**  [HQ Project private repo](https://github.com/PenelopeT/HQProject/tree/pankaja)
 
+### Day 67: May 04, Thursday
+
+**Today's Progress:**  Completed Foyer page according to wireframe for HQ Project (WHFNP) 
+
+**Thoughts:**  First design that's gonna get critical review
+
+**Link(s) to work:**  [HQ Project private repo](https://github.com/PenelopeT/HQProject/tree/pankaja)
+
 
 
 
