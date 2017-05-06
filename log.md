@@ -644,6 +644,14 @@
 
 **Link(s) to work:**  [JS30 repo](https://github.com/pankaja-shree/JavaScript30)
 
+### Day 69: May 06, Saturday
+
+**Today's Progress:**  Creating mvp for the bot startup. Tried using Quick replies and buttons for messenger bot. 
+
+**Thoughts:**  Failed to understand how to process quik replies. Stackoverflow and google didnt help either.
+
+**Link(s) to work:**  [my-bot repo](https://github.com/pankaja-shree/my-bot)
+
 
 
 
