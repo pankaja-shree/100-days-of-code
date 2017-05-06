@@ -636,6 +636,13 @@
 
 **Link(s) to work:**  [HQ Project private repo](https://github.com/PenelopeT/HQProject/tree/pankaja)
 
+### Day 68: May 05, Friday
+
+**Today's Progress:**  Javascript30 day 6 challenge - array functions revised 
+
+**Thoughts:**  I have to complete JS30 soon.
+
+**Link(s) to work:**  [JS30 repo](https://github.com/pankaja-shree/JavaScript30)
 
 
 
