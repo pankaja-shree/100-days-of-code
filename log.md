@@ -652,6 +652,14 @@
 
 **Link(s) to work:**  [my-bot repo](https://github.com/pankaja-shree/my-bot)
 
+### Day 70: May 07, Sunday
+
+**Today's Progress:**  Built a Messenger bot to search wikipedia. 
+
+**Thoughts:**  Tutorial was fairly good. But had to fix some issues. Learn how to make API calls using request module in the process.
+
+**Link(s) to work:**  [Wiki repo](https://github.com/pankaja-shree/wiki-bot)
+
 
 
 
