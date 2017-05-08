@@ -660,6 +660,14 @@
 
 **Link(s) to work:**  [Wiki repo](https://github.com/pankaja-shree/wiki-bot)
 
+### Day 71: May 08, Monday
+
+**Today's Progress:**  Filling up the form for facebook approval of wiki bot. Creating landing page for the bot.  
+
+**Thoughts:**  Learnt how to make screencasts on android using YTGaming app.
+
+**Link(s) to work:**  [Wiki repo](https://github.com/pankaja-shree/wiki-bot)
+
 
 
 
