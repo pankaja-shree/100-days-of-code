@@ -668,6 +668,14 @@
 
 **Link(s) to work:**  [Wiki repo](https://github.com/pankaja-shree/wiki-bot)
 
+### Day 72: May 09, Tuesday
+
+**Today's Progress:**  Creating landing page for the bot. Edited demo video to put up on the landing page. Customised the template for wiki bot. Need to change backgrounds.
+
+**Thoughts:**  Need to finish MEAN course after this bot project
+
+**Link(s) to work:**  [Wiki repo](https://github.com/pankaja-shree/wiki-bot)
+
 
 
 
