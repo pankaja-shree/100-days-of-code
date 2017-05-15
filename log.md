@@ -676,13 +676,21 @@
 
 **Link(s) to work:**  [Wiki repo](https://github.com/pankaja-shree/wiki-bot)
 
-### Day 72: May 12, Tuesday
+### Day 72: May 12, Thursday
 
 **Today's Progress:**  Completed landing page for bot.
 
 **Thoughts:**  Need to finish MEAN course after this bot project
 
 **Link(s) to work:**  [Landing page](https://github.com/pankaja-shree/wiki-bot/index.html)
+
+### Day 73: May 13, Monday
+
+**Today's Progress:**  Started learning angular. Made a simple app using ng-app, ng-repeat, ng-itit, ng-controller and ng-model directives
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
 
 
 
