@@ -684,9 +684,17 @@
 
 **Link(s) to work:**  [Landing page](https://github.com/pankaja-shree/wiki-bot/index.html)
 
-### Day 73: May 13, Monday
+### Day 73: May 14, Monday
 
 **Today's Progress:**  Started learning angular. Made a simple app using ng-app, ng-repeat, ng-itit, ng-controller and ng-model directives
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
+### Day 73: May 15, Tuesday
+
+**Today's Progress:**  Completed Exercise 1 of coursera's Angular MOOC
 
 **Thoughts:**  Need to finish MEAN course before 100 days
 
