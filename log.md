@@ -700,6 +700,14 @@
 
 **Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
 
+### Day 73: May 17, Thursday
+
+**Today's Progress:**  Implemented Grunt tasks - jshint, minification, uglification, serve and watch 
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
 
 
 
