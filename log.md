@@ -708,6 +708,31 @@
 
 **Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
 
+### Day 74: May 18, Friday
+
+**Today's Progress:**  Learnt Gulp tasks - jshint, minification, uglification, serve and watch 
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
+### Day 75: May 19, Saturday
+
+**Today's Progress:**  Learnt about Angular forms and form validation 
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
+### Day 76: May 20, Sunday
+
+**Today's Progress:**  Completed Assignment 2 of Coursera Angular course
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
+
 
 
 
