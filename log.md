@@ -740,6 +740,14 @@
 
 **Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
 
+### Day 78: May 22,Tuesday
+
+**Today's Progress:**  Learnt about Angular SPA, ng-router, ngiview, templates
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
 
 
 
