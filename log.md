@@ -748,6 +748,30 @@
 
 **Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
 
+### Day 79: May 23,Wednesday
+
+**Today's Progress:**  Learnt about Angular UI-router.
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
+### Day 80: May 24,Thursday
+
+**Today's Progress:**  Did assignment for week 3 for Angular1 SPA.
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Angular project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
+### Day 81: May 25,Friday
+
+**Today's Progress:**  Started working on a slack bot to add channels list.
+
+**Thoughts:**  Need to finish MEAN course before 100 days
+
+**Link(s) to work:**  [Slackbot project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+
 
 
 
