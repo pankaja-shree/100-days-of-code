@@ -813,7 +813,7 @@
 **Link(s) to work:**  
 
 * [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
-* [Landing Page](https://github.com/pankaja-shree/sns-splash/index.html)
+* [Landing Page](https://pankaja-shree.github.io/sns-splash/index.html)
 
 
 
