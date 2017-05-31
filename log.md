@@ -770,7 +770,50 @@
 
 **Thoughts:**  Need to finish MEAN course before 100 days
 
-**Link(s) to work:**  [Slackbot project repo](https://github.com/pankaja-shree/coursera-angular/conFusion)
+**Link(s) to work:**  [Slackbot project repo](https://github.com/Trion129/study-bot)
+
+### Day 82: May 26,Saturay
+
+**Today's Progress:**  Finished show-all functionality.
+
+**Thoughts:**  Learnt about Glitch virtual editor.
+
+**Link(s) to work:**  [Slackbot project repo](https://github.com/Trion129/study-bot)
+
+### Day 83: May 28,Sunday
+
+**Today's Progress:**  Finished find, set functionality.
+
+**Thoughts:**  Learning about Mongo db and helper functions.
+
+**Link(s) to work:**  [Slackbot project repo](https://github.com/Trion129/study-bot)
+
+### Day 84: May 29, Monday
+
+**Today's Progress:**  Finished add-to functionality.
+
+**Thoughts:**  Slack has very tight security with regard to private groups.
+
+**Link(s) to work:**  [Slackbot project repo](https://github.com/Trion129/study-bot)
+
+### Day 85: May 30, Tuesday
+
+**Today's Progress:**  Started workig on Landing page for SnS app. Completed index.html header and footer. Not using any css frameworks.
+
+**Thoughts:**  Flexbox is convenient for responsive design.
+
+**Link(s) to work:**  [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
+
+### Day 86: May 31, Wednesday
+
+**Today's Progress:**  Completed Landing page for SnS app. Used formspree for form - very easy to set up.
+
+**Thoughts:**  Learnt about colour pallete and fixed support buttons.
+
+**Link(s) to work:**  
+
+* [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
+* [Landing Page](https://github.com/pankaja-shree/sns-splash/index.html)
 
 
 
