@@ -815,6 +815,17 @@
 * [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
 * [Landing Page](https://pankaja-shree.github.io/sns-splash/index.html)
 
+### Day 87: June 1, Thursday
+
+**Today's Progress:**  Made privaacy policy and redirecting pages for SnS App. 
+
+**Thoughts:**  Learnt about colour pallete and fixed support buttons.
+
+**Link(s) to work:**  
+
+* [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
+* [Landing Page](https://pankaja-shree.github.io/sns-splash/index.html)
+
 
 
 
