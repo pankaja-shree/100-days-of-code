@@ -817,7 +817,18 @@
 
 ### Day 87: June 1, Thursday
 
-**Today's Progress:**  Made privaacy policy and redirecting pages for SnS App. 
+**Today's Progress:**  Made privacy policy and redirecting pages for SnS App. 
+
+**Thoughts:**  Learnt about colour pallete and fixed support buttons.
+
+**Link(s) to work:**  
+
+* [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
+* [Landing Page](https://pankaja-shree.github.io/sns-splash/index.html)
+
+### Day 87: June 2, Thursday
+
+**Today's Progress:**  Created favicons for title of the sns pages. Started learning mongodb + node + express. 
 
 **Thoughts:**  Learnt about colour pallete and fixed support buttons.
 
