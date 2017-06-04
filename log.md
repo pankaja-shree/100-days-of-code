@@ -826,7 +826,7 @@
 * [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
 * [Landing Page](https://pankaja-shree.github.io/sns-splash/index.html)
 
-### Day 87: June 2, Thursday
+### Day 88: June 2, Thursday
 
 **Today's Progress:**  Created favicons for title of the sns pages. Started learning mongodb + node + express. 
 
@@ -837,6 +837,28 @@
 * [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
 * [Landing Page](https://pankaja-shree.github.io/sns-splash/index.html)
 * [MongoDB course](https://github.com/pankaja-shree/mongo101)
+
+### Day 89: June 3, Friday
+
+**Today's Progress:**  Did hw1,2,3 for mongodb + node + express course. 
+
+**Thoughts:**  Learnt express nunjucks template.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/mongo101)
+
+### Day 90: June 4, Saturday
+
+**Today's Progress:**  Did Challenge problem for mongodb + node + express course. 
+
+**Thoughts:**  Learnt how to insert documents to mongodb and use mongo with express and node driver. Enjoying the course so far
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/mongo101)
+
+
 
 
 
