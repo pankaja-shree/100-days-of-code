@@ -859,7 +859,15 @@
 * [MongoDB course](https://github.com/pankaja-shree/mongo101)
 
 
+### Day 91: June 6, Monday
 
+**Today's Progress:**  Started week 2 of mongodb course. 
+
+**Thoughts:**  Learnt how to insert documents to mongodb and use mongo with express and node driver. Enjoying the course so far
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/mongo101)
 
 
 
