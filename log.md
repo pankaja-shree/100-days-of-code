@@ -826,7 +826,7 @@
 * [Slackbot project repo](https://github.com/pankaja-shree/sns-splash)
 * [Landing Page](https://pankaja-shree.github.io/sns-splash/index.html)
 
-### Day 88: June 2, Thursday
+### Day 88: June 2, Friday
 
 **Today's Progress:**  Created favicons for title of the sns pages. Started learning mongodb + node + express. 
 
@@ -838,7 +838,7 @@
 * [Landing Page](https://pankaja-shree.github.io/sns-splash/index.html)
 * [MongoDB course](https://github.com/pankaja-shree/mongo101)
 
-### Day 89: June 3, Friday
+### Day 89: June 3, Saturday
 
 **Today's Progress:**  Did hw1,2,3 for mongodb + node + express course. 
 
@@ -848,7 +848,7 @@
 
 * [MongoDB course](https://github.com/pankaja-shree/mongo101)
 
-### Day 90: June 4, Saturday
+### Day 90: June 4, Sunday
 
 **Today's Progress:**  Did Challenge problem for mongodb + node + express course. 
 
@@ -858,8 +858,17 @@
 
 * [MongoDB course](https://github.com/pankaja-shree/mongo101)
 
+### Day 91: June 5, Monday
 
-### Day 91: June 6, Monday
+**Today's Progress:**  Learnt about json-server and angular $http module. 
+
+**Thoughts:**  Learning server side with angular
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/coursera)
+
+### Day 92: June 6, Tuesday
 
 **Today's Progress:**  Started week 2 of mongodb course. 
 
@@ -869,7 +878,45 @@
 
 * [MongoDB course](https://github.com/pankaja-shree/mongo101)
 
+### Day 93: June 7, Wednesday
 
+**Today's Progress:**  Week4 of angular course. 
+
+**Thoughts:** Slow progress. Busy with work.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/coursera)
+
+### Day 94: June 8, Thursday
+
+**Today's Progress:**  Week 4 of angular course. 
+
+**Thoughts:** Slow progress. Busy with work.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/coursera)
+
+### Day 95: June 9, Friday
+
+**Today's Progress:**  Doing about CRUD operation on mongodb. 
+
+**Thoughts:** Slow progress. Busy with work.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/mongo101)
+
+### Day 96: June 10, Saturday
+
+**Today's Progress:**  Javascript 30 exercises
+
+**Thoughts:** Slow progress. Busy with work.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/js30)
 
 
 
