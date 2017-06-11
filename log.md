@@ -920,14 +920,13 @@
 
 ### Day 97: June 11, Sunday
 
-**Today's Progress:**  Javascript 30 exercises
+**Today's Progress:**  Week 2 assignment of mongodb. 
 
 **Thoughts:** Slow progress. Busy with work.
 
 **Link(s) to work:**  
 
-* [MongoDB course](https://github.com/pankaja-shree/js30)
-
+* [MongoDB course](https://github.com/pankaja-shree/mongo101)
 
 
 
