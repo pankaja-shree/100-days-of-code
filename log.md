@@ -910,6 +910,16 @@
 
 ### Day 96: June 10, Saturday
 
+**Today's Progress:**  Experimenting REST services with Angular
+
+**Thoughts:** Slow progress. Busy with work.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/coursera)
+
+### Day 97: June 11, Sunday
+
 **Today's Progress:**  Javascript 30 exercises
 
 **Thoughts:** Slow progress. Busy with work.
