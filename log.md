@@ -928,6 +928,16 @@
 
 * [MongoDB course](https://github.com/pankaja-shree/mongo101)
 
+### Day 98: June 12, Monday
+
+**Today's Progress:**  Used ng-resource to code server-side procssing of forms. 
+
+**Thoughts:** Slow progress. Busy with work.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/coursera)
+
 
 
 
