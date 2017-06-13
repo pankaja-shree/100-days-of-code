@@ -938,6 +938,16 @@
 
 * [MongoDB course](https://github.com/pankaja-shree/coursera)
 
+### Day 99: June 13, Tuesday
+
+**Today's Progress:**  Started assignment for week 4. Did two projects from JS30. 
+
+**Thoughts:** Slow progress. Busy with work.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/javascript30)
+
 
 
 
