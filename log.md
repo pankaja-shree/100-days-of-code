@@ -948,6 +948,15 @@
 
 * [MongoDB course](https://github.com/pankaja-shree/javascript30)
 
+### Day 100: June 14, Wednesday
+
+**Today's Progress:**  Completed assignment for week 4.  
+
+**Thoughts:** Slow progress. Busy with work.
+
+**Link(s) to work:**  
+
+* [MongoDB course](https://github.com/pankaja-shree/coursera)
 
 
 
