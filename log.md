@@ -952,7 +952,7 @@
 
 **Today's Progress:**  Completed assignment for week 4.  
 
-**Thoughts:** Slow progress. Busy with work.
+**Thoughts:** Successful completion of 100 days.
 
 **Link(s) to work:**  
 
