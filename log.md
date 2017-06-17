@@ -916,7 +916,7 @@
 
 **Link(s) to work:**  
 
-* [MongoDB course](https://github.com/pankaja-shree/coursera)
+* [Coursera repo](https://github.com/pankaja-shree/coursera)
 
 ### Day 97: June 11, Sunday
 
@@ -936,7 +936,7 @@
 
 **Link(s) to work:**  
 
-* [MongoDB course](https://github.com/pankaja-shree/coursera)
+* [Coursera repo](https://github.com/pankaja-shree/coursera)
 
 ### Day 99: June 13, Tuesday
 
@@ -946,7 +946,8 @@
 
 **Link(s) to work:**  
 
-* [MongoDB course](https://github.com/pankaja-shree/javascript30)
+* [Coursera repo](https://github.com/pankaja-shree/coursera)
+* [JS30 repo](https://github.com/pankaja-shree/javascript30)
 
 ### Day 100: June 14, Wednesday
 
@@ -956,7 +957,7 @@
 
 **Link(s) to work:**  
 
-* [MongoDB course](https://github.com/pankaja-shree/coursera)
+* [Coursera repo](https://github.com/pankaja-shree/coursera)
 
 
 
